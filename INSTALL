@@ -1,0 +1,9 @@
+Building AppleCoin
+
+See doc/readme-qt.rst for instructions on building AppleCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AppleCoin.
+
+See doc/build-*.txt for instructions on building applecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AppleCoin.
